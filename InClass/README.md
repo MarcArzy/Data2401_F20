@@ -7,9 +7,11 @@ Do the following:
 1. On your machine, open up this file (`InClass/README.md`) in a text editor of your choice.
 
 1. In the `README.md` file, below these instructions, add an ordered list of what you ate for breakfast today.
+	
+	Sausage Egg and Cheese Sandwich from Chick Fil A
 
 1. Using your terminal or GitHub Desktop, add and commit the changes you've made to your repository
-
+	
 1. Push changes up to GitHub, and view them in your web browser. Make sure you are looking at the repository under _your_ account!
 
 1. To finish, submit a link to the repository in your account on github to the assignment on BB. 
